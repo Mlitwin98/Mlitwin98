@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
-[![Spotify](https://mlitwin98.vercel.app/api/spotify)](https://open.spotify.com/user/1195967697)
+[![Spotify](https://novatorem.mlitwin98.vercel.app/api/spotify)](https://open.spotify.com/user/1195967697)
 
 
 <br />
